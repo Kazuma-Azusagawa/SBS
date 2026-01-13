@@ -1,2 +1,0 @@
-# SBS
-shrimp build system
