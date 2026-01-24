@@ -1,0 +1,8 @@
+COMPILER 'g++'
+
+MAIN_FILE 'test.cpp'
+HEADER_FILES 'basic.h'
+
+FLAGS '-O2 -W'
+
+OUTPUT 'test'
